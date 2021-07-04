@@ -1,0 +1,7 @@
+.linkText {
+  color: darkcyan;
+  cursor: pointer;
+  &:hover {
+    color: coral;
+  }
+}
